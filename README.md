@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a secret project that I cannot I will reveal soon**
 
-- 🌱 I’m currently learning **Web Development and Blockchain**
+- 🌱 I’m currently learning **Big Data**
 
 - 👯 I’m looking to collaborate on **anything tech**
 
