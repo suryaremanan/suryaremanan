@@ -7,19 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **a secret project that I cannot I will reveal soon**
-
-- 🌱 I’m currently learning **Big Data**
 
 - 👯 I’m looking to collaborate on **anything tech**
 
 - 🤝 I’m looking for help with **anyone in tech**
 
-- 💬 Ask me about **anything related to Machine Learning**
+- 📫 How to reach me **ksuryaremanan2023@gmail.com**
 
-- 📫 How to reach me **ksuryaremanan@gmail.com**
 
-- ⚡ Fun fact **I am a hindi speaking malayali**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
